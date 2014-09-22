@@ -1,9 +1,9 @@
 <cacti>	
 	<hash_00002372a588a25e9caec0fbe6a52ae600acf9>
-		<name>CF400 CPU Usage</name>
+		<name>CFC400 CPU Usage</name>
 		<graph>
 			<t_title></t_title>
-			<title>|host_description| - CF400 CPU Usage</title>
+			<title>|host_description| - CFC400 CPU Usage</title>
 			<t_image_format_id></t_image_format_id>
 			<image_format_id>1</image_format_id>
 			<t_height></t_height>
